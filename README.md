@@ -1,0 +1,2 @@
+# -Automa-o-de-Importa-o-e-Processamento-de-Dados-em-PostgreSQL-
+Projeto de automação para inserir dados em massa no PostgreSQL, otimizando a performance em grandes volumes. Com Python, Pandas e Psycopg2, criei pipelines para validação, tratamento e divisão de arquivos CSV em lotes, além de usar o comando COPY. O sistema lida com grandes volumes de dados sem prejudicar a performance de servidores limitados.
